@@ -16,7 +16,7 @@ false negative (0%) = 0.00
 
 Need to use frequentist approach
 
-To determine if a positive test is "statistically significant" at the p<0.05 level, we need to perform a hypothesis test. The null hypothesis would be that the individual does not have the condition (e.g., HIV), and the alternative hypothesis would be that the individual does have the condition.
+The null hypothesis (H0) would be that the individual does not have the condition (e.g., HIV), and the alternative hypothesis (HA) would be that the individual does have the condition.
 
 Globally, 0.7% of people in the world have HIV (https://www.who.int/data/gho/data/themes/hiv-aids#:~:text=Globally%2C%2039.9%20million%20%5B36.1–,considerably%20between%20countries%20and%20regions.)
 
